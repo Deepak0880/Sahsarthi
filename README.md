@@ -1,4 +1,4 @@
-# sahyatri
+# Sahsarthi
 
 A new Flutter project.
 
@@ -125,16 +125,16 @@ Contact:-
 For questions, suggestions, or feedback, please reach out:
 
 
-Email:satwikmishra46@gmail.com
+Email:Mottandeepak47@gmail.com
 
-GitHub:Satwikmishra11
+GitHub:Deepak0880
 
 Acknowledgments:-
 
 Special thanks to all contributors and supporters of the Sahsarthi project.
 
-#nitin singh
+#Satwik mishra
 
-#deepak mottan
+#nitin singh
 
 #aanshu kalua
